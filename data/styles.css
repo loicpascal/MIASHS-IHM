@@ -79,6 +79,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .flow_shape {
 }
 .menu_item {
@@ -88,4 +92,7 @@
 }
 .sticky_3 {
   text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
